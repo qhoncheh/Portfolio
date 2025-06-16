@@ -1,10 +1,6 @@
 import React from "react";
-import { cn } from "@/lib/utils";
-
-type SpotlightProps = {
-  className?: string;
-  fill?: string;
-};
+import { cn } from "@/utils/cn";
+import { SpotlightProps } from "@/types/type";
 
 export const Spotlight = ({ className, fill }: SpotlightProps) => {
   return (
