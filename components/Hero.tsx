@@ -30,7 +30,7 @@ const Hero = () => {
           />
 
           <p className='text-center text-white md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-            Hi! I&apos;m Ghonche, a Front-End Developer based in Iran.
+            Hello! I&apos;m Ghonche, a Front-End Developer based in Iran.
           </p>
 
           <a href='#about'>
